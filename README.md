@@ -1,7 +1,7 @@
 <img width="100%" src="https://i.ibb.co/T8xxBKz/blue-minimalist-computer-class-google-classroom-header.png" alt="my banner">
 
 # Hi there :)  👋,
-Hello, I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, Bangladesh, I dedicate a minimum of 12-14 hours every day to my craft. For me, web development is not just a job—it's my life and everything I love. I thrive on the excitement of learning new things daily
+I’m Fardin Ahmed, a passionate WordPress Developer specializing in custom plugin development, theme customization, and full-site builds using modern coding standards. With over three years of hands-on experience working with clients worldwide, I’ve delivered powerful, secure, and scalable WordPress solutions tailored to meet each client's unique business needs.
 
 ### 💫 Liitle Bit More About Me
 
